@@ -1,4 +1,6 @@
-### Hi there 👋
+![Banner](https://github.com/estalvgs1999/estalvgs1999/blob/master/Esteban%20Alvarado.png)
+
+### Hello there 👋 This is Esteban!
 
 <!--
 **estalvgs1999/estalvgs1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
