@@ -33,6 +33,14 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?&style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/postgres-05122A?&style=flat&logo=postgresql&logoColor=white)&nbsp;
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/estalvgs1999">
+  <img height=185 src = "https://github-readme-stats.vercel.app/api?username=estalvgs1999&show_icons=true&theme=chartreuse-dark&line_height=27">
+  <img height=185 src = "https://github-readme-stats.vercel.app/api/top-langs/?username=estalvgs1999&hide=scss,css,html&theme=chartreuse-dark&layout=compact">
+</a>
+</p>
 
 <!--
 **estalvgs1999/estalvgs1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
