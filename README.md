@@ -11,8 +11,6 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<img src="https://github.com/estalvgs1999/estalvgs1999/blob/master/assets/system.gif" width="480" height="270" align=right>
-
 ##### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=white)&nbsp;
@@ -55,4 +53,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
