@@ -16,16 +16,14 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/c%23%20-05122A?&style=flat&logo=c-sharp&logoColor=white)&nbsp;
-
+![C#](https://img.shields.io/badge/c%23%20-05122A?&style=flat&logo=c-sharp&logoColor=white)
 ##### ⚙️ Frameworks & Technologies
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Nest js](https://img.shields.io/badge/nestjs%20-05122A?&style=flat&logo=nestjs&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Angular](https://img.shields.io/badge/angular%20-05122A?&style=flat&logo=angular&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=white)&nbsp;
-
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=white)
 #### 🗃 Databases
 ![MySQL](https://img.shields.io/badge/mysql-05122A?&style=flat&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?&style=flat&logo=mongodb&logoColor=white)&nbsp;
