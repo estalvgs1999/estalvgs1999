@@ -1,4 +1,4 @@
-![Banner](https://github.com/estalvgs1999/estalvgs1999/blob/master/assets/banner.png)
+<!--![Banner](https://github.com/estalvgs1999/estalvgs1999/blob/master/assets/banner.png) -->
 
 ## Hello there... 👋
 
