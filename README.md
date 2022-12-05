@@ -45,6 +45,7 @@
 ![Elementary OS](https://img.shields.io/badge/-elementary%20OS-0d1117?style=flat&logo=elementary&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0d1117?style=flat&logo=windows&logoColor=white)&nbsp;
 
+<!--
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="justify">
@@ -54,7 +55,7 @@
 </a>
 </p>
 
-<!--
+
 **estalvgs1999/estalvgs1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
