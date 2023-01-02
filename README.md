@@ -9,6 +9,13 @@
 🚀 &nbsp;I'm on the way to the dark side of programming, I love working on Algorithms, Automation, Databases, and Servers.\
 ✍️ &nbsp;I also like music, design, good books, physics and science fiction movies.
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=estalvgs1999&show_icons=true&theme=dark&line_height=27&hide=issues&hide_border=true&bg_color=0d1117" alt="Esteban Alvarado github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=estalvgs1999&hide=scss,css,html,less&theme=dark&layout=compact&hide_border=true&bg_color=0d1117" />
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=estalvgs1999&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### 🛠 &nbsp;Tech Stack
 
 ##### 💻 Programming Languages
@@ -45,6 +52,8 @@
 ![Elementary OS](https://img.shields.io/badge/-elementary%20OS-0d1117?style=flat&logo=elementary&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0d1117?style=flat&logo=windows&logoColor=white)&nbsp;
 
+
+
 <!--
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -54,6 +63,8 @@
   <img height=150 src = "https://github-readme-stats.vercel.app/api/top-langs?username=estalvgs1999&hide=scss,css,html,less&theme=github_dark&layout=compact">
 </a>
 </p>
+
+
 
 
 **estalvgs1999/estalvgs1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
