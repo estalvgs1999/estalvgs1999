@@ -5,8 +5,10 @@
 ### 👨🏻‍💻 About Me
 
 💡 I'm an Computer Engineer from the Technological Institute of Costa Rica, currently working as a Mid Backend Developer with 3 years of professional experience. I'm passionate about learning new technologies and enhancing my skills.
-🚀 &nbsp;I'm on the way to the dark side of programming, I love working on Algorithms, Automation, Databases, and Servers.\
-✍️ &nbsp;I also like music, design, good books, physics and science fiction movies.
+
+🚀 I'm on the way to the dark side of programming, I love working on Algorithms, Automation, Databases, and Servers.\
+
+✍️ I also like music, design, good books, physics and science fiction movies.
 
 ### 🛠 Tech Stack
 
