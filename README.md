@@ -50,9 +50,9 @@
 
 
 ### 🚀 Experience
-- Mid Backend Developer at Fusion Tech Digital Solutions
-- Software Architect at GoToMars
-- Junior Backend Developer at Imagine XYZ
+- Mid Backend Developer at Fusion Tech Digital Solutions (2023)
+- Software Architect at GoToMars (2022 - 2023)
+- Junior Backend Developer at Imagine XYZ (2021 - 2022)
 
 
 Feel free to reach out if you have any questions or if there's anything else you'd like to know! 😊
