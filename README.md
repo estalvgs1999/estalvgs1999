@@ -42,9 +42,8 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0d1117?style=flat&logo=google-cloud&logoColor=white)&nbsp;
 
 #### 🎛️ Operating Systems
-![Ubuntu](https://img.shields.io/badge/Ubuntu-0d1117?style=flat&logo=ubuntu&logoColor=white)&nbsp;
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-0d1117?style=flat&logo=Linux%20Mint&logoColor=white)&nbsp;
-![Elementary OS](https://img.shields.io/badge/elementary%20OS-0d1117?style=flat&logo=elementary&logoColor=white)&nbsp;
+![Linux Mint](https://img.shields.io/badge/Linux-0d1117?style=flat&logo=Linux&logoColor=white)&nbsp;
+![MacOS](https://img.shields.io/badge/MacOS-0d1117?style=flat&logo=apple&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0d1117?style=flat&logo=windows&logoColor=white)&nbsp;
 
 
@@ -72,6 +71,18 @@ Feel free to reach out if you have any questions or if there's anything else you
   <img height=150 src = "https://github-readme-stats.vercel.app/api/top-langs?username=estalvgs1999&hide=scss,css,html,less&theme=github_dark&layout=compact">
 </a>
 </p>
+
+### 🎛️ Operating Systems
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0d1117?style=flat&logo=ubuntu&logoColor=white)&nbsp;
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-0d1117?style=flat&logo=Linux%20Mint&logoColor=white)&nbsp;
+![Elementary OS](https://img.shields.io/badge/elementary%20OS-0d1117?style=flat&logo=elementary&logoColor=white)&nbsp;
+![MacOS](https://img.shields.io/badge/MacOS-0d1117?style=flat&logo=apple&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0d1117?style=flat&logo=windows&logoColor=white)&nbsp;
+
+### 🚀 Experience
+- Mid Backend Developer with 3 years of experience.
+
+Feel free to reach out if you have any questions or if there's anything else you'd like to know! 😊
 
 
 
